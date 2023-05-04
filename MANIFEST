@@ -1,4 +1,4 @@
 # MANIFEST
-DIR /foo
+DIR foo
 LOAD service.yaml
 
