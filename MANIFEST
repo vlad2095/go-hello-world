@@ -1,3 +1,4 @@
 # MANIFEST
-Dockerfile
+DIR /foo
 LOAD service.yaml
+
