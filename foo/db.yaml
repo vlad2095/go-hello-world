@@ -1,0 +1,8 @@
+namespace: network-test
+foo:
+    defines: runnable
+    containers:
+        defines: containers
+        utils:
+            image: alpine:latest
+            entrypoint: sleep 36000
