@@ -4,5 +4,5 @@ hello:
     defines: runnable
     containers:
         hello:
-            image: go-hello-world
+#            image: go-hello-world
             image-tag: v1
