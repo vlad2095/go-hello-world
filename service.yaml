@@ -6,3 +6,4 @@ hello:
         hello:
 #            image: go-hello-world
             image-tag: v1
+            build: .
