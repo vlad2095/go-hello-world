@@ -3,7 +3,6 @@ namespace: test
 hello:
     defines: runnable
     containers:
-        defines: containers
         hello:
             image: go-hello-world
             image-tag: v1
